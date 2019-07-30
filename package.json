@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Angular ecommerce website customization sample, working with headless CMS CosmicJS",
   "author": "Diego Perez <dperezmartinez@gmail.com>",
+  "homepage": "https://imaka.github.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/imaka/Cosmic-Customization.git"

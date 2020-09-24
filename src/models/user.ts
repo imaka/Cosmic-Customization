@@ -17,6 +17,8 @@ export class User {
       type_slug: 'users',
       metafields: [
         {
+          type: 'JSON',
+          title: 'interests',
           key: 'interests',
           value: JSON.stringify(this.interests)
         }
@@ -30,6 +32,8 @@ export class User {
       slug: this.slug,
       metafields: [
         {
+          type: 'JSON',
+          title: 'interests',
           key: 'interests',
           value: JSON.stringify(this.interests)
         }
